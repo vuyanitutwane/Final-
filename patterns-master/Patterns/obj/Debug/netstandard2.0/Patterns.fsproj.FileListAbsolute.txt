@@ -1,0 +1,8 @@
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\bin\Debug\netstandard2.0\Patterns.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\bin\Debug\netstandard2.0\Patterns.dll
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\bin\Debug\netstandard2.0\Patterns.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\obj\Debug\netstandard2.0\Patterns.fsprojAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfo.fs
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\obj\Debug\netstandard2.0\Patterns.dll
+\\ict.ru.ac.za\DFS\UGHomes\g17t4564\Desktop\Comsci3\Exam\patterns-master\Patterns\obj\Debug\netstandard2.0\Patterns.pdb
